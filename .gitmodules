@@ -2,6 +2,14 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "ellmer"]
+	path = ellmer
+	url = https://github.com/tidyverse/ellmer
+	registered = false
 [submodule "gptstudio"]
 	path = gptstudio
 	url = https://github.com/michelnivard/gptstudio
+[submodule "shinychat"]
+	path = shinychat
+	url = https://github.com/posit-dev/shinychat
+	registered = false

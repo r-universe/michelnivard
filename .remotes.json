@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ellmer",
+    "url": "https://github.com/tidyverse/ellmer",
+    "via": ["gptstudio"],
+    "from": "gptstudio"
+  },
+  {
+    "package": "shinychat",
+    "url": "https://github.com/posit-dev/shinychat",
+    "via": ["gptstudio", "ellmer"],
+    "from": "gptstudio"
+  }
+]
